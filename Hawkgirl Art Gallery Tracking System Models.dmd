@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Hawkgirl Art Gallery Tracking System Models" id="DBC9B0A9-54B0-736E-3EF6-A70F957B3018" version="3.5">
+<createdBy>letram</createdBy>
+<createdTime>2019-09-26 17:33:43 UTC</createdTime>
+<ownerDesignName>ARTGALLERY FIRST ATTEMPT</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DBC9B0A9-54B0-736E-3EF6-A70F957B3018</designId>
+</OSDM_Design>
